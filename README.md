@@ -69,8 +69,8 @@ The `SP500_Stock_Clustering_Analysis.ipynb` notebook contains all five tasks:
 ```
 
 ## Author
-[Your Name]
-[Your University]
+[Hajra Shahzad ]
+[University of Westminster]
 [Course Code: 6BUIS017W]
 ```
 
