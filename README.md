@@ -52,47 +52,11 @@ The `SP500_Stock_Clustering_Analysis.ipynb` notebook contains all five tasks:
 - scikit-learn (AgglomerativeClustering, KMeans)
 - matplotlib, seaborn
 
-## How to Run
-1. Clone or download this repository
-2. Install required packages: 
-```
-   pip install pandas numpy yfinance scikit-learn matplotlib seaborn
-```
-3. Open `SP500_Stock_Clustering_Analysis.ipynb` in Jupyter Notebook or Google Colab
-4. Run all cells sequentially from top to bottom
-
-## Repository Structure
-```
-.
-├── README.md                              # This file
-└── SP500_Stock_Clustering_Analysis.ipynb  # Complete analysis notebook
-```
-
 ## Author
 [Hajra Shahzad ]
 [University of Westminster]
 [Course Code: 6BUIS017W]
-```
 
-5. Replace `[Your Name]`, `[Your University]` with your actual information
-6. Scroll down and click **"Commit changes"**
-
----
-
-## **STEP 5: Copy Your Repository URL**
-
-1. Look at the browser address bar at the top
-2. Copy the entire URL (looks like: `https://github.com/yourusername/repository-name`)
-3. **Save this somewhere** - you'll add it to your report
-
-**Example:** `https://github.com/john-smith/SP500-clustering-analysis`
-
----
-
-## **STEP 6: Add to Your Report**
-
-Add this box somewhere in your report (I recommend right after the title page or at the very end):
-```
 ┌─────────────────────────────────────────────────────────────┐
 │                     CODE REPOSITORY                          │
 ├─────────────────────────────────────────────────────────────┤
